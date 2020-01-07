@@ -20,7 +20,7 @@ def introduction_with_language_optional(name, language = "Ruby")
 end
 
 introduction_with_language_optional("Chris")
-introduction_with_language_optional("Chris", )
+introduction_with_language_optional("Chris", "Computer")
 
 
 
